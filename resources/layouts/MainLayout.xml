@@ -1,0 +1,7 @@
+<layout id="MainLayout">
+	<bitmap id="background_png" filename="../images/background.png" x="0" y="0" />
+	<label id="win_cnt_label" x="51" y="12" text="0" font="Gfx.FONT_MEDIUM" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER" />
+	<label id="lose_cnt_label" x="154" y="12" text="0" font="Gfx.FONT_MEDIUM" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_CENTER" />
+	<label id="crnt_score_label" x="center" y="center" text="0" font="Gfx.FONT_NUMBER_THAI_HOT" color="Gfx.COLOR_WHITE" background="Gfx.COLOR_BLACK" justification="Gfx.TEXT_JUSTIFY_CENTER" />
+	<label id="time_label" x="5" y="115" text="" font="Gfx.FONT_MEDIUM" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_LEFT" />
+</layout>

@@ -1,0 +1,10 @@
+<layout id="RecordsLayout">
+
+	<label x="5" y="10" text="Wins: " font="Gfx.FONT_MEDIUM" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_LEFT" />
+	<label id="record_win_cnt_label" x="center" y="10" text="0" font="Gfx.FONT_MEDIUM" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_LEFT" />
+	
+	<label x="5" y="30" text="Loses: " font="Gfx.FONT_MEDIUM" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_LEFT" />
+	<label id="record_lose_cnt_label" x="center" y="30" text="0" font="Gfx.FONT_MEDIUM" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_LEFT" />
+	
+	<label x="5" y="100" text="Hold MENU\nto reset records" font="Gfx.FONT_MEDIUM" color="Gfx.COLOR_WHITE" justification="Gfx.TEXT_JUSTIFY_LEFT" />
+</layout>
